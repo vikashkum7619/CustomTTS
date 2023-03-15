@@ -1,0 +1,2 @@
+https://github.com/andi611/TTS-Tacotron-Pytorch
+https://github.com/andi611/CS-Tacotron-Pytorch
